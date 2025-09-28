@@ -1,4 +1,4 @@
-![CI](https://github.com/<KoAt-DEV>/<multi-tenant-saas-starter>/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/KoAt-DEV/multi-tenant-saas-starter/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## SaaS Starter – Multi‑Tenant FastAPI + Postgres
